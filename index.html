@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>Memory Game | Drag & Drop</title>
+</head>
+<body>
+
+    <header class="main-header">
+        <h1>Memory Game</h1>
+        <p>6×5 color-matching grid featuring drag-and-drop mechanics, live timer, and automatic game state persistence with localStorage.</p>
+    </header>
+
+    <main class="main-container">
+        <section class="memory-container">
+            <!-- Status badges and live timer -->
+            <div class="game-header">
+                <span id="pairsCounter" class="status-badge">Pairs: 0 / 15</span>
+                <span id="timerDisplay" class="status-badge">Time: 0s</span>
+            </div>
+
+            <!-- 6x5 grid dynamically generated from JS -->
+            <div id="memoryGrid" class="memory-grid"></div>
+
+            <!-- Victory message and reset button -->
+            <p id="winMessage" class="win-message"></p>
+            <button id="resetBtn" type="button" class="btn-reset">New Game</button>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <img src="/favicon.svg" alt="Fer Mamone Logo" class="footer-logo">
+            <p>Developed with 💜 by <span>María Fernanda Mamone</span></p>
+        </div>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>
