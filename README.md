@@ -2,7 +2,7 @@
 
 A 6×5 color-matching memory card game built with **Vanilla JavaScript (ES6+ OOP)**, **Vite**, **Modular Sass (SCSS)**, the **HTML5 Drag & Drop API**, and **`localStorage`** persistence.
 
-[![Memory Card Game Screenshot](./assets/memory-card-game.png)](https://mariafernandamamone.github.io/Memory-Card-Game-OOP/)
+[![Memory Card Game Screenshot](./src/assets/memory-card-game.png)](https://mariafernandamamone.github.io/Memory-Card-Game-OOP/)
 
 👆 **Click the preview image above to play the Live Demo!**
 
