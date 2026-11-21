@@ -18,7 +18,7 @@ A 6×5 color-matching memory card game built with **Vanilla JavaScript (ES6+ OOP
 
 ```
 ├── index.html
-├── docs/
+├── assets/
 │   └── memory-card-game.png
 ├── public/
 │   └── favicon.svg
