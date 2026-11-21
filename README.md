@@ -67,4 +67,4 @@ Developed with 💜 by **María Fernanda Mamone**
 - **Portfolio:** https://mariafernandamamone.github.io/Fernanda-Mamone-Portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/mfmamone/
 - **GitHub:** https://github.com/mariafernandamamone
-- **Email:** mailto:mariafrenchitas@gmail.com
+- **Email:** [tuemail@gmail.com](mailto:tuemail@gmail.com)
